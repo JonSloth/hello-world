@@ -1,8 +1,15 @@
 # hello-world
-emmmm,I don't know how to describe it.
-
+emmmm,I don't know how to describe it. 
+ 
+Hello World! 
+OK this is not cool. 
+作为一个菜鸡，观察了GitHub一两年后终于开了自己的账号。 
+我是civil engineering出身，现在也是在做建筑行业，日常有超级多重复性工作，嗨烦。会用个Excel都能成倍提高工作效率。明明有一些能解放生产力的软件，公司却不买，真是的，大概软件比试用期的新人还贵吧。 
+但是我还是受不了这种无聊的活，为了多做几个项目，或者多偷偷懒，我把目光转向Dynamo和Python。要求不高啊，其实那些软件的内在逻辑也不复杂，算法就更扯不上了，基本上就是查找-复制-粘贴或者是查找-创建或者是查找-判断这一类的。 
+贫穷是我只能自食其力。 
+为了评分或者建模更快更高效，在公司不花钱买软件的情况下，只能自己硬着头皮上了。（笑瘫） 
+大概就是这样子，希望能坚持下去。 
+敲代码真的挺有意思啊，看着自己辛辛苦苦编出来的逻辑，秒出结果非常爽。 
+虽然可能按传统方法用2小时，code却用了3小时....但是下次就飞起啦。
+不管怎样，被逼无奈下打开了新世界的大门，而这个新世界看起来还挺有趣。
 Hello World!
-OK this is not cool.
-But I'm a newbie,whatever I used to learn has been returned to my teacher.
-My major is civil engineering and I'm working on green building now.In my job there are too many boring things so I turn to Dynamo and Python for helping me out.
-Thanks!
